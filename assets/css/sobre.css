@@ -344,7 +344,7 @@
     margin-block-end: 20px;
 }
 
-.hero-title {
+.h1-hero-title {
     margin: 0; /* Remova a margem anterior */
     text-align: center; /* Centralize o texto horizontalmente */
     margin-block: 15px 20px;
